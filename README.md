@@ -1,6 +1,6 @@
 # GOODKT
 
-The implementation of the paper *GOODKT: A Dual Graph Online Knowledge Distillation Method for Knowledge Tracin*
+The implementation of the paper *GOODKT: A Dual Graph Online Knowledge Distillation Method for Knowledge Tracing*
 
 ## Setup
 
